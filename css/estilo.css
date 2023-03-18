@@ -52,3 +52,76 @@ h1{
 #servicios{
 	padding: 50px;
 }
+#servicios h3{
+	text-align: center;
+	color: black;
+	font-family: "tahoma", sans-serif;
+}
+#servicios h4{
+	text-align: center;
+	color: black;
+	font-family: "tahoma", sans-serif;
+}
+#servicios .contenedor{
+	display:flex;
+	justify-content:center;
+	flex:wrap;
+}
+#servicios article{
+	margin:40xp;
+}
+#servicios img{
+	width: 100%;
+	max-width: 500px;
+	padding:10px;
+}
+#productos{
+	background: linear-gradient(220.55deg, #B7DCFF 0%, #FFA4F6 100%);
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+}
+#productos h2{
+	padding: 15px;
+	text-transform: uppercase;
+	font-family: "tahoma", sans-serif;
+}
+#productos .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: "tahoma", sans-serif;
+}
+.info-mascota{
+margin: 60px;
+}
+.info-mascota img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+#Guarderia{
+	color: #000;
+	text-align: center;
+	padding: 30px;
+}
+#Guarderia h2{
+	padding: 15px;
+	text-transform: uppercase;
+	font-family: "tahoma", sans-serif;
+}
+#Guarderia .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: "tahoma", sans-serif;
+}
+.guarderia{
+	margin: 10px;
+}
+.guarderia img{
+	width: 100%;
+	max-width: 500px;
+	padding:10px;
+}
