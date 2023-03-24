@@ -52,3 +52,151 @@ h1{
 #servicios{
 	padding: 50px;
 }
+#servicios h3{
+	text-align: center;
+	color: black;
+	font-family: "tahoma", sans-serif;
+}
+#servicios h4{
+	text-align: center;
+	color: black;
+	font-family: "tahoma", sans-serif;
+}
+#servicios .contenedor{
+	display:flex;
+	justify-content:center;
+	flex:wrap;
+}
+#servicios article{
+	margin:40xp;
+}
+#servicios img{
+	width: 100%;
+	max-width: 500px;
+	padding:10px;
+}
+#productos{
+	background: linear-gradient(220.55deg, #B7DCFF 0%, #FFA4F6 100%);
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+}
+#productos h2{
+	padding: 15px;
+	text-transform: uppercase;
+	font-family: "tahoma", sans-serif;
+}
+#productos .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: "tahoma", sans-serif;
+}
+.info-mascota{
+margin: 60px;
+}
+.info-mascota img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+#Guarderia{
+	color: #000;
+	text-align: center;
+	padding: 30px;
+}
+#Guarderia h2{
+	padding: 15px;
+	text-transform: uppercase;
+	font-family: "tahoma", sans-serif;
+}
+#Guarderia .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: "tahoma", sans-serif;
+}
+.guarderia{
+	margin: 10px;
+}
+.guarderia img{
+	width: 100%;
+	max-width: 500px;
+	padding:10px;
+}
+#Promociones{
+	background: linear-gradient(220.55deg, #B7DCFF 0%, #FFA4F6 100%);
+	color: #fff;
+	text-align: center;
+	padding: 30px;
+}
+#Promociones h2{
+	padding: 15px;
+	text-transform: uppercase;
+	font-family: "tahoma", sans-serif;
+}
+#Promociones .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	font-family: "tahoma", sans-serif;
+}
+.prom{
+margin: 50px;
+}
+.prom img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
+#Ubicacion{
+	background: white;
+	color: #462d13;
+	text-align: center;
+	padding: 50px;
+}
+#Ubicacion h1{
+	font-size: 25px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#Ubicacion .contenedor{
+	display: flex;
+	padding: 35px;
+	flex-wrap: wrap;
+	justify-content: initial;
+}
+#Ubicacion .contenedor iframe{
+	width: 60%;
+	border: 15px solid violet;
+}
+#Ubicacion .contenedor p{
+	padding: 40px;
+	width: 50%;
+	text-align: center;
+}
+footer{
+	background: white;
+}
+footer .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	padding: 30px;
+	color: #000;
+}
+.coppy{
+	font-size: 10px;
+	padding: 20px;
+}
+.red-social{
+	width: 100%;
+	text-align: center;
+	font-size: 20px;
+}
+.red-social a{
+	color: #000;
+
+}
